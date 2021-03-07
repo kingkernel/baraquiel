@@ -1,19 +1,16 @@
 <!DOCTYPE html>
-<html lang="zxx">
-
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Amin Template">
-    <meta name="keywords" content="Amin, unica, creative, html">
+    <meta name="description" content="MMO RPG site para mestres e jogadores de RPG">
+    <meta name="keywords" content="RPG, MMORPG, creatividade, Diversão online, jogos online, itens RPG">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Amin | Template</title>
-
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700,900&display=swap" rel="stylesheet">
-
     <!-- Css Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
@@ -111,7 +108,7 @@
                             <ul>
                                 <li><i class="fa fa-sun-o"></i> <span>20<sup>c</sup></span> London</li>
                                 <li><i class="fa fa-clock-o"></i> Aug 01, 2019</li>
-                                <li class="signup-switch signup-open"><i class="fa fa-sign-out"></i> Login / Sign up
+                                <li class="signup-switch signup-open"><i class="fa fa-sign-out"></i> Entrar / Cadastrar-se
                                 </li>
                             </ul>
                         </div>
@@ -2024,7 +2021,7 @@
         <div class="signup-text">
             <div class="container">
                 <div class="signup-title">
-                    <h2>Sign up</h2>
+                    <h2>Cadastrar-se</h2>
                     <p>Fill out the form below to recieve a free and confidential</p>
                 </div>
                 <form action="#" class="signup-form">
